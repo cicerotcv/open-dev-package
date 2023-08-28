@@ -1,0 +1,6 @@
+dist
+
+dev_aberto*/
+!dev_aberto/
+
+**/__pycache__
